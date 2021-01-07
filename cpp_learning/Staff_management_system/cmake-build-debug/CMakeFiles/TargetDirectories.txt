@@ -1,0 +1,3 @@
+H:/learn/C++/Staff_management_system/cmake-build-debug/CMakeFiles/Staff_management_system.dir
+H:/learn/C++/Staff_management_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/learn/C++/Staff_management_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
